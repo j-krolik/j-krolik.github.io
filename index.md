@@ -3,7 +3,7 @@ layout: cv
 title: Jarosław Królik's CV
 ---
 <div id=header style="margin-bottom: 5em;">
-    <h2 id="foo" style="position:absolute; 
+    <h2 id="photo-of-me" style="position:absolute; 
             margin-top: 1em;  
             top: 0;
             right:79%;">
