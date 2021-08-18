@@ -2,21 +2,28 @@
 layout: cv
 title: Jarosław Królik's CV
 ---
-# Jarosław Królik
-Python & Embedded Developer, Formula Student Team Member, Warsaw University of Technology Student.
-
-<div id="webaddress">
-<a href="mailto:krolik.jaroslaw@gmail.com">krolik.jaroslaw@gmail.com</a>
-| <a href="tel:+48726074094">tel: +48 726-074-094</a>
-| <a href="https://j-krolik.github.io/">j-krolik.github.io</a>
-| <a href="https://www.linkedin.com/in/jaros%C5%82aw-kr%C3%B3lik">LinkedIn</a>
-| <a href="https://github.com/j-krolik">GitHub</a>
-| <a href="https://gitlab.com/j-krolik">Gitlab</a>
+<div id=header style="margin-bottom: 5em;">
+    <h2 id="foo" style="position:absolute; 
+            margin-top: 1em;  
+            top: 0;
+            right:79%;">
+        <img src="photo_of_me.jpg" style="zoom:6%; border-radius: 3%">
+    </h2>
+    <h1 id="jarosław-królik">Jarosław Królik</h1>
+    <p> Python & Embedded Developer, Formula Student Team Member, Warsaw University of Technology Student.</p>
+    <div id="webaddress">
+        <a href="mailto:krolik.jaroslaw@gmail.com">krolik.jaroslaw@gmail.com</a>
+        | <a href="tel:+48726074094">tel: +48 726-074-094</a>
+        | <a href="https://j-krolik.github.io/">j-krolik.github.io</a>
+        | <a href="https://www.linkedin.com/in/jaros%C5%82aw-kr%C3%B3lik">LinkedIn</a>
+        | <a href="https://github.com/j-krolik">GitHub</a>
+        | <a href="https://gitlab.com/j-krolik">Gitlab</a>
+    </div>
 </div>
 
 ## Personal Profile
 
-Extremally motivated to constantly develop my skills and grow professionally. Eager to take on new challenges. Always involved in the work of the team.
+Extremely motivated to constantly develop my skills and grow professionally. Eager to take on new challenges. Always involved in the work of the team.
 
 ## Non-commercial Experience
 
