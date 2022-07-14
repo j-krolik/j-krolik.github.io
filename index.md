@@ -11,7 +11,7 @@ title: Jarosław Królik's CV
         <img src="photo_of_me.jpg" style="zoom:6%; border-radius: 3%">
     </h2>
     <h1 id="jarosław-królik">Jarosław Królik</h1>
-    <p> Junior Software Developer</p>
+    <p>I do software</p>
     <div id="webaddress">
         <a href="mailto:krolik.jaroslaw@gmail.com">krolik.jaroslaw@gmail.com</a>
         | <a href="tel:+48726074094">tel: +48 726-074-094</a>
